@@ -56,3 +56,9 @@ role key — never commit it.
 Feature-complete through the core loop: sign up, create a customer, generate an
 estimate, render the PDF, send it, and subscribe. Not deployed publicly, and
 the Stripe integration has only been exercised in test mode.
+
+## Timeline
+
+Written April 2026 (30 source files).
+
+Dates come from file modification times on disk, not from commit history - this repository was initialised later, so the commit dates are all from when it was published rather than when the code was written.
